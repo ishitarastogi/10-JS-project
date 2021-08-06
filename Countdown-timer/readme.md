@@ -35,3 +35,5 @@ The setInterval() method will continue calling the function until clearInterval(
 The ID value returned by setInterval() is used as the parameter for the clearInterval() method.
 
 Tip: 1000 ms = 1 second.
+
+![alt text]('./project-snapshot.png')
