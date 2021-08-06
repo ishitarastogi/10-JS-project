@@ -36,4 +36,4 @@ The ID value returned by setInterval() is used as the parameter for the clearInt
 
 Tip: 1000 ms = 1 second.
 
-![alt text]('./project-snapshot.png')
+![alt text](./project-snapshot.png)
